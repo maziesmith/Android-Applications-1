@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="title_activity_edit">Multi Notes</string>
+    <string name="title_activity_about">About</string>
+</resources>
