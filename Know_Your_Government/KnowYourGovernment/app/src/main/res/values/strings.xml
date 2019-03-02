@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="title_activity_about">About</string>
+    <string name="copyright_details">©2018, Rahul Hosmani</string>
+    <string name="version">Version 1.0</string>
+    <string name="filename">notesData.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="api_key">AIzaSyBbtlJVFxXIG2cn5iEL1ZKBetnoThHmlfM</string>
+    <string name="no_network_info">Data cannot be accessed/loaded without an internet connection.</string>
+    <string name="no_network_title">No Network Connection</string>
+</resources>
